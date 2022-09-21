@@ -1,30 +1,26 @@
-# Week 2
-## [September]/[19] - [September]/[21]
+# Week [week1]
+## [month]/[day] - [month]/[day]
 
-# Topic: GitHub 
+# Topic:
 
 ___
 
-### Day 1, [September]/[19]
+### Day 1, [month]/[day]
 
-#### 🗒️Notes from class: 
-Command line 
-cd - Change Directory
-mkdir - Make Directory (creates Folder)
-ls - list status (shows folders in directory)
+#### 🗒️Notes from class:
 
-#### 📚Resources: https://dangitgit.com/
+#### 📚Resources:
 
 
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. How to create GitHub repo
-2. Clone repository
-3. Push to GitHub
+1. 
+2. 
+3. 
 
 👁️Two things I would like to know more about:
-1. More GitHub Commands
+1. 
 2. 
 
 ✋One thing I'm having trouble understanding:
@@ -76,4 +72,3 @@ ___
 ✋One thing I'm having trouble understanding:
 1. 
  
-
