@@ -57,24 +57,25 @@ https://www.theodinproject.com/lessons/foundations-alignment
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, [Sepember]/[28]
 #### 🗒️Notes from class:
-
+Flex Container - "Parent"
+Flex Items - "Child"
 #### 📚Resources:
-
+https://www.internetingishard.com/html-and-css/flexbox/
 
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. Justify content - is Horizontal alignment
+2. <div> allows for grouping flex items
+3. Vertical alignment is defined by align-items
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Wrapping Flex Items
+2. Manipulating Flex Item Order
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Applying flexbox 
  
 
