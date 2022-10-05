@@ -29,7 +29,7 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [October]/[4] 
 
 #### 🗒️Notes from class:
 
@@ -39,16 +39,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. If/Else statements
+2. for, while, do, do while Loops
+3. Nested conditional statements
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Knowing how to select best loop to solve problems
+2. Get better at breaking problems down to code smaller portions
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Writing Ternary Statements
 
 ___
 
